@@ -1,3 +1,5 @@
+Якщо хочете побачити Live версію застосунку переходьте за посиланням: "https://yaroslavks.github.io/Password_Generator_APP_TEST/".
+
 Task:
 Create applications to test password strength.
 
